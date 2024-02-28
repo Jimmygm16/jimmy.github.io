@@ -40,7 +40,7 @@
     padding: 1rem;
     z-index: 100;
     left: 0;
-    top: calc(50dvh - 2rem);
+    top: calc(50dvh - 4rem);
     margin-right: 1rem;
     opacity: 0.5;
     transition: ease-in-out 0.3s;
