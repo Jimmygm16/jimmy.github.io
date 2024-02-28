@@ -58,7 +58,7 @@
     height: 1rem;
     border-radius: 50%;
     background-color: var(--primary_blue);
-    border: 2px solid white;
+    border: 2px solid var(--neon_blue_palette);
     overflow: hidden; 
     transition: 0.3s;
 }
@@ -79,4 +79,15 @@
 
 .m-option:hover .float-menu {
     opacity: 1;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+    width: 100%;
+}
+
+footer p{
+    font-size: 0.7rem;
 }
